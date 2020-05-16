@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/7sAyjXU.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/DhruvDoshi/google_ai_game/blob/master/data/git_readme.gif" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Google_AI_Game</h3>
