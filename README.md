@@ -3,9 +3,10 @@
  <img width=200px height=200px src="https://i.imgur.com/7sAyjXU.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Google_AI_Game</h3>
+<h3 align="center">DCS-BBN</h3>
 
 <div align="center">
+
 
 
 [![GitHub release](https://img.shields.io/github/release/DhruvDoshi/google_ai_game.svg?style=popout-square)](https://github.com/DhruvDoshi/google_ai_game/releases)
