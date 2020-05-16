@@ -50,3 +50,15 @@ End with an example of getting some data out of the system or using it for a lit
 ## Usage <a name = "usage"></a>
 
 Add notes about how to use the system.
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@DhruvDoshi](https://github.com/DhruvDoshi) - Idea & Initial work
+
+See also the list of [contributors](https://github.com/DhruvDoshi/google_ai_game/contributors) who participated in this project.
+
+
+## 🙂 License
+
+[Dhrvu Doshi](http://dcs-bbn.com/)
+Licienced under the [MIT LICIENCE](LICENSE)
