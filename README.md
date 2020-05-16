@@ -10,11 +10,12 @@ Google Game with AI
 
 ## About <a name = "about"></a>
 
-This is the game developed with google which will help to recreate the iconic no internet connection game on the chrome. The code will automatize the bird and learn from the models and at the end it will achieve high scores in the range of 2k-3k
+This is the game developed with google which will help to recreate the iconic no internet connection game on the chrome. The code will automatize the bird and learn from the models and at the end it will achieve high scores in the range of 2k-3k.
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+This is developed with help of processing language p5.js please visit its officaial website for more information.
+
 
 ### Prerequisites
 
