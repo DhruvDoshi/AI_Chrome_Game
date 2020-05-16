@@ -71,5 +71,5 @@ See also the list of [contributors](https://github.com/DhruvDoshi/google_ai_game
 
 ## 🙂 License
 
-[Dhrvu Doshi](http://dcs-bbn.com/)
+[Dhrvu Doshi](http://dhruvdoshi.github.io/)
 Licienced under the [MIT LICIENCE](LICENSE)
