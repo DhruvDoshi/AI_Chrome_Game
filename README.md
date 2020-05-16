@@ -5,17 +5,15 @@
 
 <h3 align="center">Google_AI_Game</h3>
 
-<!-- <div align="center"> -->
+<div align="center">
 
+    [![GitHub release](https://img.shields.io/github/release/DhruvDoshi/google_ai_game.svg?style=popout-square)](https://github.com/DhruvDoshi/google_ai_game/releases)
+    [![HitCount](http://hits.dwyl.io/DhruvDoshi/google-ai_game.svg)](http://hits.dwyl.io/DhruvDoshi/google_ai_game)
+    ![GitHub last commit](https://img.shields.io/github/last-commit/DhruvDoshi/google_ai_game.svg?style=popout-square)
+    [![GitHub issues-closed](https://img.shields.io/github/issues-closed/DhruvDoshi/google_ai_game.svg)](https://github.com/DhruvDoshi/google_ai_game/issues)
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=popout-square)](https://opensource.org/licenses/MIT)
 
-
-[![GitHub release](https://img.shields.io/github/release/DhruvDoshi/google_ai_game.svg?style=popout-square)](https://github.com/DhruvDoshi/google_ai_game/releases)
-[![HitCount](http://hits.dwyl.io/DhruvDoshi/google-ai_game.svg)](http://hits.dwyl.io/DhruvDoshi/google_ai_game)
-![GitHub last commit](https://img.shields.io/github/last-commit/DhruvDoshi/google_ai_game.svg?style=popout-square)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/DhruvDoshi/google_ai_game.svg)](https://github.com/DhruvDoshi/google_ai_game/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=popout-square)](https://opensource.org/licenses/MIT)
-
-
+</div>
 ## Table of Contents
 
 - [About](#about)
