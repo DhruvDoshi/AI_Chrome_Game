@@ -1,9 +1,8 @@
 # Project Title
 Google Game with AI
 
-[![GitHub release](https://img.shields.io/github/release/DhruvDoshi/DCS_BBN.svg?style=popout-square)](https://github.com/DhruvDoshi/DCS_BBN/releases)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://dcs-bbn.com/)
-[![HitCount](http://hits.dwyl.io/DhruvDoshi/DCS_BBN.svg)](http://hits.dwyl.io/DhruvDoshi/DCS_BBN)
+[![GitHub release](https://img.shields.io/github/release/DhruvDoshi/DCS_BBN.svg?style=popout-square)](https://github.com/DhruvDoshi/google_ai_game/releases)
+[![HitCount](http://hits.dwyl.io/DhruvDoshi/google-ai_game.svg)](http://hits.dwyl.io/DhruvDoshi/google_ai_game)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DhruvDoshi/DCS_BBN.svg?style=popout-square)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/DhruvDoshi/DCS_BBN.svg)](https://github.com/DhruvDoshi/DCS_BBN/issues)
